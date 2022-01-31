@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_application_assignment">News Application Assignment</string>
+    <string name="placeholder_image">placeholder image</string>
+    <string name="news_app">News App</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="staggered">Staggered</string>
+    <string name="try_searching">Try Searching</string>
+    <string name="eminem">Eminem</string>
+    <string name="virat_kohli">Virat Kohli</string>
+    <string name="india">India</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="sort_by">Sort By</string>
+    <string name="popularity">Popularity</string>
+    <string name="newest">Newest</string>
+    <string name="relevance">Relevance</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="category">Category : general</string>
+    <string name="language_en">Language : en</string>
+    <string name="country_us">Country : US</string>
+    <string name="name">Name</string>
+</resources>
